@@ -23,7 +23,7 @@
 
 最新思路
 
-git + sourceTree + vscode + MarkdownTC(one tool of Upload pics)
+git + sourceTree + vscode + MarkdownTC(one tool of Upload pics) **+ clash**
 
 > [GITHUB 配置 IN MarkdownTC](http://tc.yangln.cn/help/2.2GitHub%E9%85%8D%E7%BD%AE.html)
 > DONOT NEED PICGO ANYMORE.
